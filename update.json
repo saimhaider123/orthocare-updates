@@ -1,7 +1,7 @@
 {
-    "latest_version":  "1.0.0",
-    "download_url":  "https://github.com/saimhaider123/orthocare-updates/releases/download/v1.0.0/OrthoCareERP-Setup-1.0.0.exe",
-    "notes":  "OrthoCare ERP first release: surgery cases, invoices, inventory, purchases, accounts, reports",
+    "latest_version":  "1.0.1",
+    "download_url":  "https://github.com/saimhaider123/orthocare-updates/releases/download/v1.0.1/OrthoCareERP-Setup-1.0.1.exe",
+    "notes":  "New professional invoice design, per-item discount and GST, further tax, advance, PO/Bed/CNIC fields, OCE invoice numbering",
     "mandatory":  false,
     "message":  "",
     "revoked":  [
