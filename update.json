@@ -1,7 +1,7 @@
 {
-    "latest_version":  "1.0.1",
-    "download_url":  "https://github.com/saimhaider123/orthocare-updates/releases/download/v1.0.1/OrthoCareERP-Setup-1.0.1.exe",
-    "notes":  "New professional invoice design, per-item discount and GST, further tax, advance, PO/Bed/CNIC fields, OCE invoice numbering",
+    "latest_version":  "1.0.2",
+    "download_url":  "https://github.com/saimhaider123/orthocare-updates/releases/download/v1.0.2/OrthoCareERP-Setup-1.0.2.exe",
+    "notes":  "Purchases fixed: auto rates, PKR default, receive goods, freight/duty, supplier payments, new purchase reports and dashboard",
     "mandatory":  false,
     "message":  "",
     "revoked":  [
